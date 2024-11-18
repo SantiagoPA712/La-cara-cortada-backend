@@ -66,7 +66,7 @@ Este proyecto es el backend de la aplicación **La Cara Cortada**, un sistema fi
 
 ---
 
-## **Estructura del Proyecto**
+## **Estructura del Proyecto (Principal)**
 
 ```plaintext
 backend/
